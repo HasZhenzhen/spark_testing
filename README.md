@@ -11,9 +11,11 @@ Spark cluster web ui:
   
   Ganglia: http://ec2-yourmasterip.compute-1.amazonaws.com:5080/ganglia
 
+
 Spark documentation:
 
   http://spark.apache.org/docs/1.0.1/
+
   
 Scala documentation:
 
@@ -21,9 +23,11 @@ Scala documentation:
   
   Good tutorial: Alexander, Alvin. Scala Cookbook: Recipes for Object-Oriented and Functional Programming. " O'Reilly Media, Inc.", 2013.
 
+
 Spark RDD API examples:
 
   http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html
+
 
 Sbt documentation:
 
