@@ -1,18 +1,24 @@
 To run a standalone program in spark,
 
-1. create the sbt configuration file following the example.
+1 create the sbt configuration file following the example.
 
-2. organize the files as the following tree structure:
+2 organize the files as the following tree structure:
 
-> find .
+$ find .
+
 .
+
 ./example.sbt
+
 ./src
+
 ./src/main
+
 ./src/main/scala
+
 ./src/main/scala/SparkPi.scala
 
-3. package a jar containing your application:
+3 package a jar containing your application:
 
     sbt package
     
