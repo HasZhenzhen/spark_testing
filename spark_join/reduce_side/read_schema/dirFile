@@ -1,0 +1,8 @@
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/campaigns/1_1/0/0/0/prod.campaigns.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/publishers/1_1/0/0/0/prod.publishers.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/advertiser_sub_publishers/1_1/0/0/0/prod.advertiser_sub_publishers.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/advertiser_sub_sites/1_1/0/0/0/prod.advertiser_sub_sites.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/advertiser_sub_campaigns/1_1/0/0/0/prod.advertiser_sub_campaigns.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/join_table/prod/attribution_shared/countries/1_1/0/0/0/prod.countries.1_1.0.0.0.csv.gz
+s3n://mat-log-csv-prod/olap_log/log/prod/s3_tracking_log_csv/stat_clicks/1_12/883/2014/06/*.gz
+/mnt/result
