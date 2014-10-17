@@ -29,11 +29,17 @@ $ find .
 4 use spark-submit to run your application
 
   spark-submit \
---class <main-class> \
---master <master-url> \
---deploy-mode <deploy-mode> \
+  
+--class main-class \
+
+--master master-url \
+
+--deploy-mode deploy-mode \
+
 ... #other options
-<application-jar> \
+
+application-jar \
+
 [application-arguments]
 
 example usage:
