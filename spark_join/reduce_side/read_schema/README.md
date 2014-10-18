@@ -6,6 +6,6 @@ dirFile: json file containing s3n dir to tables for joining.
 
 schemaFile: json file holding the schemas for each table.
 
-After compilation, run with /root/spark/bin/spark-submit --class " " --master spark://ec2-masterip.compute-1.amazonaws.com:7077 /root/zhenzhentest/schematest/target/scala-2.10/spark_join_sql_2.10-1.1.jar /root/zhenzhentest/schematest/dirFile /root/zhenzhentest/schematest/schemaFile
+After compilation, run with /root/spark/bin/spark-submit --class " " --master spark://ec2-masterip.compute-1.amazonaws.com:7077 /dir/to/jar/somejar.jar /dir/to/file/dirFile /dir/to/schema/schemaFile
 
 
