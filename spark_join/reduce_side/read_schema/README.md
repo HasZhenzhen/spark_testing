@@ -1,4 +1,4 @@
-New feature since Spark 1.1.0 Testing.
+New feature since Spark 1.1.0.
 
 Instead of hardcoded in programs, the s3n dirs and schemas will all be read from json files.
 
