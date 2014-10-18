@@ -14,7 +14,7 @@ Spark cluster web ui:
 
 Spark documentation:
 
-  http://spark.apache.org/docs/1.0.1/
+  https://spark.apache.org/docs/latest/programming-guide.html
 
   
 Scala documentation:
